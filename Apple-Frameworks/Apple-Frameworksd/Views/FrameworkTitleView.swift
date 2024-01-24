@@ -16,7 +16,7 @@ struct FrameworkTitleView: View {
             Image(framework.imageName)
                 .renderingMode(.original)
                 .resizable()
-                .frame(width: 60, height: 60)
+                .frame(width: 70, height: 70)
             Text(framework.name)
                 .font(.title2)
                 .fontWeight(.semibold)
@@ -24,7 +24,6 @@ struct FrameworkTitleView: View {
                 .minimumScaleFactor(0.6)
                 .padding()
         }
-        .padding()
     }
 }
 
