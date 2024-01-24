@@ -1,2 +1,2 @@
-<img width="484" alt="Screenshot 2024-01-24 at 11 16 23 AM" src="https://github.com/dhanunjaykumar/Apple-Frameworks-ListView/assets/7019691/c6c05b65-8c7e-4168-b7e7-3470b68e7472">
-<img width="484" alt="Screenshot 2024-01-24 at 11 16 31 AM" src="https://github.com/dhanunjaykumar/Apple-Frameworks-ListView/assets/7019691/0d00646a-0308-46ad-b940-9e1ed6322634">
+![Simulator Screenshot - iPhone 15 Pro - 2024-01-24 at 11 23 33](https://github.com/dhanunjaykumar/Apple-Frameworks-ListView/assets/7019691/7bc948df-62de-4ab7-9bb1-6f86005b3964)
+![Simulator Screenshot - iPhone 15 Pro - 2024-01-24 at 11 23 36](https://github.com/dhanunjaykumar/Apple-Frameworks-ListView/assets/7019691/ec6dd98a-d053-497f-ac75-d4f27d3bdbf3)
